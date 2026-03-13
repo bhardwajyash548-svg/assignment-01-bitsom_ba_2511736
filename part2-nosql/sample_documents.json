@@ -1,1 +1,35 @@
+[
+  {
+    "product_id": "ELEC001",
+    "name": "Samsung Smart TV",
+    "category": "Electronics",
+    "price": 45000,
+    "warranty_years": 2,
+    "specs": {
+      "screen_size": "55 inch",
+      "voltage": "220V",
+      "brand": "Samsung"
+    }
+  },
+  {
+    "product_id": "CLOTH001",
+    "name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 2999,
+    "sizes": ["S","M","L","XL"],
+    "material": "Denim",
+    "brand": "Levis"
+  },
+  {
+    "product_id": "GROC001",
+    "name": "Organic Almonds",
+    "category": "Groceries",
+    "price": 850,
+    "expiry_date": "2024-12-31",
+    "nutrition": {
+      "protein": "21g",
+      "fat": "49g"
+    }
+  }
+]
 
